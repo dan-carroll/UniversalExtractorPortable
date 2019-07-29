@@ -9,3 +9,4 @@ See the [Releases](https://github.com/dan-carroll/UniversalExtractorPortable/rel
 
 And visit the [PortableApps.com](https://portableapps.com/) website for more on Portable Apps.
 
+[Original UniExtract by Jared Breland](https://www.legroom.net/software/uniextract)
